@@ -14,4 +14,4 @@
           params.require(:post).permit(:title, :content)
         end
       end
-end
+
